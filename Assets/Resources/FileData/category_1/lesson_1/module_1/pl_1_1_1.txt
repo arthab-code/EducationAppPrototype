@@ -1,0 +1,101 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+0
+2
+360
+example
+sciezka do grafiki2
+QUESTION 1:
+---
+2_2
+1_1
+4_4
+3_3
+<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+0
+2
+360
+example
+sciezka do grafiki2
+Question 2:
+---
+2_2
+1_1
+3_3
+<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+0
+0
+sciezka do filmu
+sciezka do dzwieku
+sciezka do grafiki
+Question 3 (CORRECT ANSWER = 30)
+---
+30_1
+<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1
+1
+sciezka do filmu1
+sciezka do dzwieku1
+test
+IMAGE QUESTION (CORRECT ANSWER = YES)
+---
+NO_0
+YES_1
+<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2
+1
+360
+example
+sciezka do grafiki2
+VIDEO QUESTION (CORRECT ANSWER = YES)
+---
+YES_1
+NO_0
+I DONT KNOW_0
+<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+0
+0
+sciezka do filmu2
+sciezka do dzwieku2
+sciezka do grafiki2
+QUESTION (CORRECT ANSWER = 2)
+---
+2_1
+<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2
+1
+360
+example
+sciezka do grafiki2
+IMAGE QUESTION (CORRECT ANSWER = YES)
+---
+YES_1
+NO_0
+<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1
+0
+360
+example
+test
+Image Question (CORRECT ANSWER = YES)
+---
+YES_1
+<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+0
+1
+360
+example
+sciezka do grafiki2
+CHOOSE CORRECT ANSWER:
+---
+CORRECT_1
+INCORRECT_0
+INCORRECT 2_0
+<<<

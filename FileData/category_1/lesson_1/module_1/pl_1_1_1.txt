@@ -1,0 +1,52 @@
+>>>
+0
+1
+sciezka do filmu
+sciezka do dzwieku
+sciezka do grafiki
+Tresc pytania pierwszego?
+---
+Odpowiedz1_0
+Odpowiedz2_0
+Odpowiedz3_1
+Odpowiedz4_1
+Odpowiedz5_1
+<<<
+>>>
+1
+1
+sciezka do filmu1
+sciezka do dzwieku1
+sciezka do grafiki1
+Tresc pytania drugiego?
+---
+Odpowiedz11_0
+Odpowiedz12_1
+Odpowiedz13_0
+<<<
+>>>
+2
+2
+sciezka do filmu2
+sciezka do dzwieku2
+sciezka do grafiki2
+Tresc pytania trzeciego?
+---
+Odpowiedz21_0
+Odpowiedz22_1
+Odpowiedz23_0
+Odpowiedz24_0
+<<<
+>>>
+0
+3
+sciezka do filmu3
+sciezka do dzwieku3
+sciezka do grafiki3
+Tresc pytania czwartego?
+---
+Odpowiedz31_0
+Odpowiedz32_1
+Odpowiedz33_0
+Odpowiedz34_0
+<<<
